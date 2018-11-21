@@ -1,1 +1,1 @@
-# looplab-bootstrap
+# bootstrap-6-projects
